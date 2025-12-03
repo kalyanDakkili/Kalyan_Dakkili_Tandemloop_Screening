@@ -61,10 +61,10 @@ Count the number of integers in a list that are multiples of numbers from **1 to
 
 ## How to Run
 
-1.Open the project folder in terminal/PowerShell.
+1. Open the project folder in terminal/PowerShell.
 
 
-2.Compile each program:
+2. Compile each program:
 
   - javac Problem1_Calculator.java
 
@@ -74,7 +74,7 @@ Count the number of integers in a list that are multiples of numbers from **1 to
     
   - javac Problem4_MultiplesCounter.java
 
-3. to Run each Program:
+3. To Run each Program:
    
    - java Problem1_Calculator
    
