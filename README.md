@@ -67,15 +67,21 @@ Count the number of integers in a list that are multiples of numbers from **1 to
 2.Compile each program:
 
 javac Problem1_Calculator.java
+
 javac Problem2_OddNumbers.java
+
 javac Problem3_OddSeries.java
+
 javac Problem4_MultiplesCounter.java
 
 3. to Run each Program:
 
 java Problem1_Calculator
+
 java Problem2_OddNumbers
+
 java Problem3_OddSeries
+
 java Problem4_MultiplesCounter
 
 -------------------------------------------------
